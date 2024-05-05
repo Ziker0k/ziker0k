@@ -19,3 +19,14 @@
 - telegram: @ziker0k
 
 ---
+
+### Study projects
+
+| project | description | technologies |
+|---------|-------------|--------------|
+| Ooops...| Ooops...    | Ooops...     |
+
+##### Others study projects
+
+- Will be updated soon....
+
