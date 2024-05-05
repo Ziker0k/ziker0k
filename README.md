@@ -4,7 +4,7 @@
 <h3 align="center">4th year</h3>
 
 <h6 align="right">Core technologies</h6>
-<img aling="right" alt="Static Badge" src="https://img.shields.io/badge/java-black">
+<img align="right" alt="Static Badge" src="https://img.shields.io/badge/java-black">
 
 ###
 
