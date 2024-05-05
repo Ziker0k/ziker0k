@@ -5,7 +5,6 @@
 
 ---
 
-###
 
 <div align="center">
   <a href="https://t.me/ziker0k" target="_blank">
