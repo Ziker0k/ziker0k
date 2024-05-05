@@ -5,7 +5,7 @@
 
 #### Contacts:
 
-* email: maxim.galkln@yandex.ru
-* telegram: @ziker0k
+- email: ziker0k@yandex.ru
+- telegram: @ziker0k
 
 ---
