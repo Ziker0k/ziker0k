@@ -5,7 +5,7 @@
 
 <h6 align="right">
   Core technologies
-  <img align="right" alt="Static Badge" src="https://img.shields.io/badge/java-black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/java-black">
 </h6>
 
 ###
