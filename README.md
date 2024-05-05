@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="left">Core technologies</h4>
+<h1 align="left">Core technologies</h1>
 
 ![](https://img.shields.io/badge/java-%3E%3D%208%20-orange)
 
