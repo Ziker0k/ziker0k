@@ -3,7 +3,9 @@
 <h3 align="center">N.I. Lobachevsky State University of Nizhny Novgorod student</h3>
 <h3 align="center">4th year</h3>
 
-<h3 align="center">Core technologies</h3>
+###
+
+<h4 align="center">Core technologies</h4>
 ![](https://img.shields.io/badge/java-%3E%3D%208%20-orange) ![](https://img.shields.io/badge/Spring-%3E%3D%205.0-brightgreen) ![](https://img.shields.io/badge/maven-3-green) ![](https://img.shields.io/badge/postgres-8-blue) ![](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellowgreen) ![](https://img.shields.io/badge/Travis-CI-brightgreen)
 
 ---
