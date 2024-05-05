@@ -3,3 +3,9 @@
 <h3 align="center">N.I. Lobachevsky State University of Nizhny Novgorod student</h3>
 <h3 align="center">4th year</h3>
 
+#### Contacts:
+
+* email: maxim.galkln@yandex.ru
+* telegram: @ziker0k
+
+---
