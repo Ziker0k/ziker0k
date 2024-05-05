@@ -5,9 +5,9 @@
 
 ###
 
-<h4 align="center">Core technologies</h4>
+<h4 align="left">Core technologies</h4>
 
-![](https://img.shields.io/badge/java-%3E%3D%208%20-orange) ![](https://img.shields.io/badge/Spring-%3E%3D%205.0-brightgreen) ![](https://img.shields.io/badge/maven-3-green) ![](https://img.shields.io/badge/postgres-8-blue) ![](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellowgreen) ![](https://img.shields.io/badge/Travis-CI-brightgreen)
+![](https://img.shields.io/badge/java-%3E%3D%208%20-orange))
 
 ---
 
