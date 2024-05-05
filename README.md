@@ -3,7 +3,7 @@
 <h3 align="center">N.I. Lobachevsky State University of Nizhny Novgorod student</h3>
 <h3 align="center">4th year</h3>
 
-<h6 align="left">
+<h6 align="right">
   Core technologies
   
   ![](https://img.shields.io/badge/java-%3E%3D%208%20-orange)
