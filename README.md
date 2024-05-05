@@ -6,7 +6,7 @@
 <h6 align="right">
   Core technologies
   
-  ![](https://img.shields.io/badge/java-%3E%3D%208%20-orange)
+  <img alt="Static Badge" src="https://img.shields.io/badge/java">
 </h6>
 
 ###
