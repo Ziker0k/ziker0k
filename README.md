@@ -23,7 +23,7 @@
 
 | project | description | technologies |
 |---------|-------------|--------------|
-| Ooops...| Ooops...    | Ooops...     |
+|<a href="https://github.com/Ziker0k/http-servlets-rewfilms">rewfilms</a>|films library with review|Java, Servlets, Lombok, PostgreSQL|
 
 ##### Others study projects
 
